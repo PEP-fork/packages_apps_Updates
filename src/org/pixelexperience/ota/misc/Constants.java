@@ -33,6 +33,6 @@ public final class Constants {
     static final String OTA_URL = "https://raw.githubusercontent.com/PEP-fork/official_devices/master/builds/%s.json";
     static final String OTA_CI_URL = "";
     static final String MAINTAINER_URL = "https://romodel.ru/user/waiser";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/PEP-fork/official_devices/master/changelogs/%s/%s.txt";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://romodel.ru/rom/362-pixelexperience_plus-dlja-poco-x3-pro.html";
     static final String EXPORT_PATH = "PixelExperience-Updates/";
 }
